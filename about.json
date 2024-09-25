@@ -1,4 +1,6 @@
 {
   "name": "Daily Digest Disclaimer",
-  "component": true
+  "component": true,
+  "authors": "Communiteq",
+  "theme_version": "2024.01.26"
 }
